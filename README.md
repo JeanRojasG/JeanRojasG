@@ -3,7 +3,7 @@
 # Jean Rojas GitHub Site
 
 
-![Baner para el repositorio de GitHub](Banner-GitHub.png)
+![Baner para el repositorio de GitHub](Banner_Github.png)
 <!--
 **JeanRojasG/JeanRojasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
